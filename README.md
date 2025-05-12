@@ -7,4 +7,5 @@ This solution provides with 2 options:
 2. LINQ way: To sort the given string using LINQ functions
 
 Input  => ["eat", "tea", "tan", "ate", "nat", "bat"]
+
 Output => [["ate", "eat", "tea"], ["nat", "tan"], ["bat"]]
